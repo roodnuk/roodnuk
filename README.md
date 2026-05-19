@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=550&lines=Software+Architect;Full+Stack+Developer;Vibe+Coder+%F0%9F%8E%A7;Designing+Scalable+Systems;Building+E-commerce+%26+Tools;JavaScript+%2F+TypeScript+%2F+Go;Deploying+on+AWS+ECS+%26+EC2;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=550&lines=Software+Architect;Full+Stack+Developer;AI-Powered+Developer+%F0%9F%A4%96;Designing+Scalable+Systems;Building+E-commerce+%26+Tools;JavaScript+%2F+TypeScript+%2F+Go;Deploying+on+AWS+ECS+%26+EC2;Music+On+%F0%9F%8E%A7+Code+Flowing" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,7 +17,8 @@ I'm a **Software Architect & Full Stack Developer** based in India — I design 
 - 🏗️ Designing scalable, resilient system architectures for real-world products
 - 🔭 Currently working on freelance e-commerce & web tool projects
 - ☁️ Deploying production workloads on **AWS ECS & EC2**
-- 🎧 Proud **vibe coder** — music on, flow state activated
+- 🤖 Leverage **AI agents** to move faster and solve problems smarter
+- 🎧 Music always on while coding — it's part of the workflow
 - 🛠️ Building hobby projects to explore new ideas
 - 💬 Ask me about **system design, microservices, JavaScript, TypeScript, Go**
 - 🤝 Open to freelance collaborations
@@ -151,5 +152,5 @@ I'm a **Software Architect & Full Stack Developer** based in India — I design 
 ---
 
 <p align="center">
-  <i>Architect by design, developer by passion, vibe coder by nature.</i>
+  <i>Architect by design, developer by passion. AI in the toolkit, music in the ears.</i>
 </p>
