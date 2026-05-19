@@ -1,25 +1,45 @@
 <h1 align="center">Hey, I'm Suraj K 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> · Freelancer · Builder of things that work
+  <b>Software Architect & Full Stack Developer</b> · Freelancer · Builder of things that work
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Vibe+Coder+%F0%9F%8E%A7;Building+E-commerce+%26+Tools;JavaScript+%2F+TypeScript+%2F+Go;Deploying+on+AWS+ECS+%26+EC2;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=550&lines=Software+Architect;Full+Stack+Developer;Vibe+Coder+%F0%9F%8E%A7;Designing+Scalable+Systems;Building+E-commerce+%26+Tools;JavaScript+%2F+TypeScript+%2F+Go;Deploying+on+AWS+ECS+%26+EC2;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **Full Stack Developer** based in India, working on freelance and hobby projects that solve real problems. I specialize in building **e-commerce platforms** and **productivity/tool applications** — from idea to production deployment on AWS.
+I'm a **Software Architect & Full Stack Developer** based in India — I design scalable system architectures and build them end-to-end. I specialize in **e-commerce platforms** and **productivity/tool applications**, from system design to production deployment on AWS.
 
+- 🏗️ Designing scalable, resilient system architectures for real-world products
 - 🔭 Currently working on freelance e-commerce & web tool projects
 - ☁️ Deploying production workloads on **AWS ECS & EC2**
 - 🎧 Proud **vibe coder** — music on, flow state activated
 - 🛠️ Building hobby projects to explore new ideas
-- 💬 Ask me about **JavaScript, TypeScript, Go, React, Node.js**
+- 💬 Ask me about **system design, microservices, JavaScript, TypeScript, Go**
 - 🤝 Open to freelance collaborations
+
+---
+
+## 🏛️ Architecture & Design
+
+**Architectural Patterns**
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat&logoColor=white)
+![Event Driven](https://img.shields.io/badge/Event--Driven-6DB33F?style=flat&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Domain Driven Design](https://img.shields.io/badge/DDD-FF6F00?style=flat&logoColor=white)
+![CQRS](https://img.shields.io/badge/CQRS-5C2D91?style=flat&logoColor=white)
+
+**System Design**
+![System Design](https://img.shields.io/badge/System_Design-0078D4?style=flat&logoColor=white)
+![High Availability](https://img.shields.io/badge/High_Availability-00897B?style=flat&logoColor=white)
+![Load Balancing](https://img.shields.io/badge/Load_Balancing-FF6D00?style=flat&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF9900?style=flat&logo=amazon-api-gateway&logoColor=white)
+![Message Queues](https://img.shields.io/badge/Message_Queues-E91E63?style=flat&logoColor=white)
 
 ---
 
@@ -64,13 +84,14 @@ I'm a **Full Stack Developer** based in India, working on freelance and hobby pr
 
 ## 📦 What I Build
 
-| Type                     | Description                                                         |
-| ------------------------ | ------------------------------------------------------------------- |
-| 🛒 **E-commerce**        | Full-featured storefronts, payment integrations, inventory systems  |
-| 🔧 **Tool Apps**         | Productivity tools, automation scripts, SaaS utilities              |
-| ☁️ **Cloud Deployments** | Containerized apps on AWS ECS & EC2 — scalable and production-ready |
-| 🎯 **Freelance**         | Custom web solutions for clients — scoped, delivered, deployed      |
-| 🧪 **Hobby Projects**    | Experiments that turn into something useful                         |
+| Type                       | Description                                                                      |
+| -------------------------- | -------------------------------------------------------------------------------- |
+| 🏛️ **System Architecture** | Scalable, fault-tolerant architectures — microservices, event-driven, API design |
+| 🛒 **E-commerce**          | Full-featured storefronts, payment integrations, inventory systems               |
+| 🔧 **Tool Apps**           | Productivity tools, automation scripts, SaaS utilities                           |
+| ☁️ **Cloud Deployments**   | Containerized apps on AWS ECS & EC2 — scalable and production-ready              |
+| 🎯 **Freelance**           | Custom web solutions for clients — scoped, delivered, deployed                   |
+| 🧪 **Hobby Projects**      | Experiments that turn into something useful                                      |
 
 ---
 
@@ -102,5 +123,5 @@ I'm a **Full Stack Developer** based in India, working on freelance and hobby pr
 ---
 
 <p align="center">
-  <i>Vibe coder. Building one project at a time. If it solves a problem, it's worth building.</i>
+  <i>Architect by design, developer by passion, vibe coder by nature.</i>
 </p>
