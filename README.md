@@ -111,14 +111,35 @@ I'm a **Software Architect & Full Stack Developer** based in India — I design 
 
 ## 📫 Let's Connect
 
-<p>
-  <a href="mailto:sooraj.appwaysys@email.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/suraj-kundoor" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<br/>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="280">
+      <a href="mailto:sooraj.appwaysys@email.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <br/>
+        <sub><b>sooraj.appwaysys@email.com</b></sub>
+      </a>
+    </td>
+    <td align="center" width="280">
+      <a href="https://linkedin.com/in/suraj-kundoor" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <br/>
+        <sub><b>linkedin.com/in/suraj-kundoor</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Freelance-%2300B37D?style=flat-square&logoColor=white)
+![Hire Me](https://img.shields.io/badge/Available%20for%20Collaborations-%230EA5E9?style=flat-square&logoColor=white)
+
+</div>
 
 ---
 
