@@ -125,7 +125,7 @@ I'm a **Software Architect & Full Stack Developer** based in India — I design 
       </a>
     </td>
     <td align="center" width="280">
-      <a href="https://linkedin.com/in/suraj-kundoor" target="blank" rel="noopener noreferrer">
+      <a href="https://linkedin.com/in/suraj-kundoor" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         <br/>
         <sub><b>linkedin.com/in/suraj-kundoor</b></sub>
