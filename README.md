@@ -59,19 +59,13 @@ I'm a **Full Stack Developer** based in India, working on freelance and hobby pr
 ## 📊 GitHub Stats
  
 <p align="center">
-  <a href="https://github.com/roodnuk" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=roodnuk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  </a>
-  <a href="https://github.com/roodnuk" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roodnuk&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roodnuk&theme=tokyo-night&hide_border=true" />
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
     <img src="https://streak-stats.demolab.com?user=roodnuk&theme=tokyonight&hide_border=true" height="160" />
   </a>
 </p>
----
 
 ## 📫 Let's Connect
 
