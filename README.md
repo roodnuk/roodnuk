@@ -59,16 +59,16 @@ I'm a **Full Stack Developer** based in India, working on freelance and hobby pr
 ## 📊 GitHub Stats
  
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <a href="https://github.com/roodnuk" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=roodnuk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <a href="https://github.com/roodnuk" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roodnuk&layout=compact&theme=tokyonight&hide_border=true" height="160" />
   </a>
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="160" />
+    <img src="https://streak-stats.demolab.com?user=roodnuk&theme=tokyonight&hide_border=true" height="160" />
   </a>
 </p>
 ---
