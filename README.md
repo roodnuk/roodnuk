@@ -55,6 +55,10 @@ I'm a **Software Architect & Full Stack Developer** based in India — I design 
 **Backend**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+
+**CMS**
+![Strapi](https://img.shields.io/badge/Strapi-2F2D8E?style=flat&logo=strapi&logoColor=white)
 
 **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
