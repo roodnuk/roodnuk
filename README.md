@@ -123,10 +123,10 @@ I'm a **Software Architect & Full Stack Developer** based in India — I design 
 <table>
   <tr>
     <td align="center" width="200">
-      <a href="mailto:sooraj.appwaysys@email.com" target="_blank" rel="noopener noreferrer">
+      <a href="mailto:sooraj.appwaysys@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
         <br/>
-        <sub><b>sooraj.appwaysys@email.com</b></sub>
+        <sub><b>sooraj.appwaysys@gmail.com</b></sub>
       </a>
     </td>
     <td align="center" width="200">
