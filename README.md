@@ -125,22 +125,16 @@ I'm a **Software Architect & Full Stack Developer** based in India — I design 
     <td align="center" width="200">
       <a href="mailto:sooraj.appwaysys@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        <br/>
-        <sub><b>sooraj.appwaysys@gmail.com</b></sub>
       </a>
     </td>
-    <td align="center" width="200">
+    <!-- <td align="center" width="200">
       <a href="https://linkedin.com/in/suraj-kundoor-" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        <br/>
-        <sub><b>linkedin.com/in/suraj-kundoor-</b></sub>
       </a>
-    </td>
+    </td> -->
     <td align="center" width="200">
       <a href="https://portfolio-roan-xi-tu1iyyhlcc.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-        <br/>
-        <sub><b>Portfolio</b></sub>
       </a>
     </td>
   </tr>
